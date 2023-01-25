@@ -24,3 +24,5 @@ RUN ls -halt /home/
 # Hello, World!
 # /ubuntu_helloworld]$ docker run --name ubuntu_helloworld2 ganggreentempertatum/ubuntu_helloworld:v1.0 /home/a.py
 # Overriden Hello
+
+# /ubuntu_helloworld]$ docker push ganggreentempertatum/ubuntu_helloworld:v1.0
